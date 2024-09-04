@@ -11,7 +11,7 @@
         <div class="card-container">
             <div class="left">
                 <div class="left-container">
-                    <h2>Kontak Form</h2>
+                    <h2>Hubungi Kami</h2>
                     <p>Silahkan isi form yang sudah disediakan</p>
                 </div>
             </div>
